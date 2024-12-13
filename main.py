@@ -1,3 +1,2 @@
 print("hellow world")
-name=roshni
-print("hello",name,"welocme")
+print("adding new things")
